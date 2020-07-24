@@ -3,7 +3,6 @@
 #include <vector>
 #include <string>
 #include <cstdlib>
-#include <tuple>
 #include <sstream>
 #include <conio.h>
 #include <Windows.h>
